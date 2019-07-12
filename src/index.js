@@ -7,7 +7,7 @@ const firebase = require("firebase");
 require("firebase/firestore");
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAEFPZM8jdBgyF9B6OAC7p07WdvoUnCPd4",
+  apiKey: "******************************",
   authDomain: "notes-d98f4.firebaseapp.com",
   databaseURL: "https://notes-d98f4.firebaseio.com",
   projectId: "notes-d98f4",
