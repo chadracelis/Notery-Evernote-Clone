@@ -7,3 +7,5 @@ Getting Started
 •	Inside your firebase project database, create a new collection called 'notes' </br>
 •	Inside the new collection, creating the following fields: string-‘title’, string-‘body’ </br>
 •	Inside you new app folder, npm start to start the local server 
+<p></p>
+You can checkout the live preview of this project here -> https://notes-d98f4.web.app/
