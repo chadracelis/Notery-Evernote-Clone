@@ -9,4 +9,4 @@
 •	Inside the new collection, creating the following fields: string-‘title’, string-‘body’ </br>
 •	Inside you new app folder, npm start to start the local server 
 <p></p>
-You can checkout the live preview of this project here -> https://notes-d98f4.web.app/
+You can checkout the live preview of this project here -> https://notesauth-9378a.web.app/signin
