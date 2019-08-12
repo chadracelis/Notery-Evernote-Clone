@@ -10,3 +10,5 @@
 •	Inside you new app folder, npm start to start the local server 
 <p></p>
 You can checkout the live preview of this project here -> https://notesauth-9378a.web.app/signin
+<p></p>
+<img src="./notery.png" alt="Project">
