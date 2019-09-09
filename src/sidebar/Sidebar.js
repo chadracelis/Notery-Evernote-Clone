@@ -101,5 +101,3 @@ class Sidebar extends Component {
 }
  
 export default withStyles(Styles)(Sidebar)
-
-// <Divider> is just a divider to disinguish between the notes
