@@ -12,7 +12,6 @@ class SidebarItem extends Component {
 
     deleteNote = note => {
         if(window.confirm(`Are you sure you want to delete ${note.title}?`)) {
-        // back ticks allows us to write a string
         this.props.deleteNote(note);
         }
     }
@@ -48,9 +47,3 @@ class SidebarItem extends Component {
 }
  
 export default withStyles(Styles)(SidebarItem)
-
-// selected is a property from the ListItem component which checks if the attached variable is true, it will be highlighted
-
-// under secondary property of ListItemText component, we're telling our app to reveal 1st 30 characters of our note body
-// and remainder as... in our sidebar. We also invoke removeHTMLTags because without it, our body will display html tags 
-// such as <p></p>
